@@ -1,0 +1,23 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("NDA") is entered into between Lexlegis AI Private Limited and ABC Corporation.
+
+Purpose:
+The parties wish to explore a potential business relationship and may exchange confidential information.
+
+Confidential Information:
+Includes technical documents, source code, customer data, business plans, financial information, and trade secrets.
+
+Obligations:
+1. Maintain confidentiality of all disclosed information.
+2. Use information only for the intended purpose.
+3. Restrict access to authorized personnel.
+
+Exclusions:
+Information that is publicly available or independently developed shall not be considered confidential.
+
+Term:
+The confidentiality obligations shall remain in effect for two years from the date of disclosure.
+
+Governing Law:
+This agreement shall be governed by the laws of India.

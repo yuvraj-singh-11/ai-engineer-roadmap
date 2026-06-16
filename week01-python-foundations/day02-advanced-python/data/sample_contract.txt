@@ -1,0 +1,22 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is entered into on 1 January 2026 between Lexlegis AI Private Limited ("Employer") and Rahul Sharma ("Employee").
+
+Position: Software Engineer
+
+Compensation:
+The Employee shall receive an annual salary of INR 12,00,000 payable in monthly installments.
+
+Responsibilities:
+1. Develop and maintain software applications.
+2. Participate in code reviews and testing activities.
+3. Follow company security and compliance policies.
+
+Confidentiality:
+The Employee agrees not to disclose any confidential information obtained during employment.
+
+Termination:
+Either party may terminate this agreement by providing 30 days written notice.
+
+Governing Law:
+This agreement shall be governed by the laws of India.
