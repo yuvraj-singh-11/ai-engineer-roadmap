@@ -1,0 +1,26 @@
+VENDOR AGREEMENT
+
+This Vendor Agreement is entered into between ABC Corporation and XYZ Vendor.
+
+1. SERVICES
+The Vendor shall provide software development and maintenance services as agreed by both parties.
+
+2. PAYMENT TERMS
+ABC Corporation shall pay invoices within thirty days of receipt.
+
+3. CONFIDENTIALITY
+The Vendor shall not disclose confidential information received from ABC Corporation to any third party.
+
+4. TERMINATION
+Either party may terminate this agreement by providing thirty days written notice.
+
+5. INTELLECTUAL PROPERTY
+All intellectual property developed under this agreement shall belong exclusively to ABC Corporation.
+
+6. LIABILITY
+The Vendor shall be liable for damages resulting from negligence or breach of contract.
+
+7. GOVERNING LAW
+This agreement shall be governed by the laws of India.
+
+(Repeat and expand sections until document becomes large)
