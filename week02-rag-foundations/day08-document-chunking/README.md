@@ -8,7 +8,7 @@ Large documents such as contracts, policies, due diligence reports, and legal ag
 
 This project implements:
 
-* Document Loading
+* Document Loading 
 * Text Chunking
 * Chunk Overlap
 * Chunk Metadata Generation
