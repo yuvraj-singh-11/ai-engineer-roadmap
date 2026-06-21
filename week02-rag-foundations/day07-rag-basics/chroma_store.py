@@ -8,7 +8,7 @@ def get_vector_collection():
     chroma_client = chromadb.PersistentClient(path="./chroma_db")
     
     # Use a built-in, free, local embedding function (Sentence Transformers)
-    # This downloads a small model locally on first run automatically
+    # This downloads a small model    locally on first run automatically
     emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
         model_name="all-MiniLM-L6-v2"
     )
