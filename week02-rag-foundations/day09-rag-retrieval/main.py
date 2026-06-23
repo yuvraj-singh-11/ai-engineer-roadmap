@@ -2,6 +2,7 @@ from loader import load_document
 from chunker import chunk_text
 from embedder import get_embeddings
 from chroma_store import collection
+# pyrefly: ignore [missing-import]
 from retrieve import retrieve
 
 document = load_document(
@@ -25,6 +26,8 @@ query = input(
 )
 
 results = retrieve(query)
+
+print(results)
 
 for chunk in results:
     print("\n")
