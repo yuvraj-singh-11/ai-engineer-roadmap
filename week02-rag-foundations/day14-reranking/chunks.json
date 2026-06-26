@@ -1,0 +1,1602 @@
+[
+    {
+        "text": "# EMPLOYMENT AGREEMENT\n\nThis Employment Agreement (the **\u201cAgreement\u201d**) is made and entered into on this **23rd day of June 2026** (the **\u201cEffective Date\u201d**),\n\n**BY AND BETWEEN**",
+        "source": "employment.txt",
+        "chunk_id": 0
+    },
+    {
+        "text": "**LexiMind AI Technologies Private Limited**, a company incorporated under the Companies Act, 2013, having its registered office at WeWork Galaxy, 3rd Floor, 43 Residency Road, Bengaluru, Karnataka 560025, India (hereinafter referred to as the **\u201cCompany\u201d**, which expression shall, unless repugnant",
+        "source": "employment.txt",
+        "chunk_id": 1
+    },
+    {
+        "text": "which expression shall, unless repugnant to the context, include its successors and permitted assigns);",
+        "source": "employment.txt",
+        "chunk_id": 2
+    },
+    {
+        "text": "**AND**",
+        "source": "employment.txt",
+        "chunk_id": 3
+    },
+    {
+        "text": "**Mr. Arjun Malhotra**, son of Mr. Rajeev Malhotra, residing at Flat No. B-1204, Cedar Heights, HSR Layout, Sector 2, Bengaluru, Karnataka 560102, India (hereinafter referred to as the **\u201cEmployee\u201d**, which expression shall, unless repugnant to the context, include his legal heirs and permitted",
+        "source": "employment.txt",
+        "chunk_id": 4
+    },
+    {
+        "text": "context, include his legal heirs and permitted representatives).",
+        "source": "employment.txt",
+        "chunk_id": 5
+    },
+    {
+        "text": "The Company and the Employee are hereinafter collectively referred to as the **\u201cParties\u201d** and individually as a **\u201cParty.\u201d**\n\n---\n\n## 1. PARTIES",
+        "source": "employment.txt",
+        "chunk_id": 6
+    },
+    {
+        "text": "---\n\n## 1. PARTIES\n\n1.1 The Company is engaged in the business of developing and commercializing artificial intelligence-enabled legal technology products, including legal drafting automation, contract intelligence platforms, litigation analytics tools, and compliance workflow software.",
+        "source": "employment.txt",
+        "chunk_id": 7
+    },
+    {
+        "text": "1.2 The Employee represents that he possesses the qualifications, professional experience, and technical competencies necessary for the role contemplated herein and is willing to enter into employment on the terms set out in this Agreement.\n\n---\n\n## 2. JOB TITLE",
+        "source": "employment.txt",
+        "chunk_id": 8
+    },
+    {
+        "text": "---\n\n## 2. JOB TITLE\n\n2.1 The Company hereby appoints the Employee as **Senior Software Engineer \u2013 AI Platforms**.\n\n2.2 The Employee accepts such appointment and agrees to perform duties associated with the role as may be reasonably assigned from time to time in accordance with this Agreement.",
+        "source": "employment.txt",
+        "chunk_id": 9
+    },
+    {
+        "text": "2.3 The Employee\u2019s employment shall commence on **01 July 2026** (the **\u201cJoining Date\u201d**), subject to completion of onboarding formalities, background verification, and submission of required documentation.",
+        "source": "employment.txt",
+        "chunk_id": 10
+    },
+    {
+        "text": "2.4 The first **six (6) months** from the Joining Date shall constitute a probation period (the **\u201cProbation Period\u201d**) in accordance with Clause 21.5.\n\n---\n\n## 3. DUTIES AND RESPONSIBILITIES",
+        "source": "employment.txt",
+        "chunk_id": 11
+    },
+    {
+        "text": "---\n\n## 3. DUTIES AND RESPONSIBILITIES\n\n3.1 The Employee shall faithfully, diligently, and to the best of his skill perform all duties reasonably associated with the role of Senior Software Engineer \u2013 AI Platforms.",
+        "source": "employment.txt",
+        "chunk_id": 12
+    },
+    {
+        "text": "3.2 Without limiting the foregoing, the Employee\u2019s core responsibilities shall include:\n\n  3.2.1 design, development, testing, deployment, and maintenance of backend and AI-integrated software systems;",
+        "source": "employment.txt",
+        "chunk_id": 13
+    },
+    {
+        "text": "3.2.2 architecture and implementation of secure, scalable microservices for legal AI products;\n\n  3.2.3 development and optimization of machine learning serving infrastructure and prompt orchestration pipelines;\n\n  3.2.4 code review, mentorship, and technical guidance to junior engineers;",
+        "source": "employment.txt",
+        "chunk_id": 14
+    },
+    {
+        "text": "3.2.5 ensuring adherence to coding standards, secure development lifecycle practices, and internal engineering policies;\n\n  3.2.6 participation in incident response, root-cause analysis, and system reliability initiatives.",
+        "source": "employment.txt",
+        "chunk_id": 15
+    },
+    {
+        "text": "3.3 The Employee shall devote full working time, attention, and abilities to the business of the Company and shall not undertake any other employment, consulting engagement, or business activity without prior written approval of the Company.",
+        "source": "employment.txt",
+        "chunk_id": 16
+    },
+    {
+        "text": "3.4 The Employee shall comply with all lawful instructions, policies, and procedures of the Company as amended from time to time.\n\n---\n\n## 4. REPORTING STRUCTURE",
+        "source": "employment.txt",
+        "chunk_id": 17
+    },
+    {
+        "text": "---\n\n## 4. REPORTING STRUCTURE\n\n4.1 The Employee shall report directly to the **Director of Engineering (AI Products)**, or such other person as may be designated by the Company.",
+        "source": "employment.txt",
+        "chunk_id": 18
+    },
+    {
+        "text": "4.2 The Company may modify reporting lines, organizational structure, and team assignments based on business requirements, provided such changes do not materially diminish the Employee\u2019s grade or compensation without due process.\n\n---\n\n## 5. WORK LOCATION",
+        "source": "employment.txt",
+        "chunk_id": 19
+    },
+    {
+        "text": "---\n\n## 5. WORK LOCATION\n\n5.1 The Employee\u2019s primary place of work shall be the Company\u2019s Bengaluru office at WeWork Galaxy, 3rd Floor, 43 Residency Road, Bengaluru, Karnataka 560025.",
+        "source": "employment.txt",
+        "chunk_id": 20
+    },
+    {
+        "text": "5.2 The Company may require travel within India or internationally for project meetings, client engagements, audits, training, or business continuity needs, subject to reimbursement as per Company policy.\n\n---\n\n## 6. REMOTE WORK POLICY",
+        "source": "employment.txt",
+        "chunk_id": 21
+    },
+    {
+        "text": "---\n\n## 6. REMOTE WORK POLICY\n\n6.1 The Employee may be permitted to work remotely on a hybrid basis up to three (3) working days per week, subject to managerial approval, project requirements, and policy compliance.",
+        "source": "employment.txt",
+        "chunk_id": 22
+    },
+    {
+        "text": "6.2 Remote work is a privilege and not a contractual entitlement; the Company may modify or withdraw remote arrangements with reasonable notice based on operational, security, or regulatory considerations.\n\n6.3 While working remotely, the Employee shall:",
+        "source": "employment.txt",
+        "chunk_id": 23
+    },
+    {
+        "text": "6.3 While working remotely, the Employee shall:\n\n  6.3.1 maintain secure internet connectivity and approved endpoint protections;\n\n  6.3.2 access Company systems only through authorized channels and virtual private network controls;",
+        "source": "employment.txt",
+        "chunk_id": 24
+    },
+    {
+        "text": "6.3.3 ensure confidentiality of information in home or co-working environments;\n\n  6.3.4 remain available during core hours as set out in Clause 10.\n\n---\n\n## 7. SALARY",
+        "source": "employment.txt",
+        "chunk_id": 25
+    },
+    {
+        "text": "7.1 In consideration of services rendered, the Company shall pay the Employee a gross annual fixed salary of **INR 42,00,000** (Indian Rupees Forty-Two Lakh only), payable in equal monthly installments in arrears, subject to statutory deductions including income tax, provident fund, and",
+        "source": "employment.txt",
+        "chunk_id": 26
+    },
+    {
+        "text": "including income tax, provident fund, and professional tax where applicable.",
+        "source": "employment.txt",
+        "chunk_id": 27
+    },
+    {
+        "text": "7.2 The monthly gross salary shall be **INR 3,50,000** before deductions.\n\n7.3 A detailed compensation break-up shall be provided in Annexure A and may include basic pay, house rent allowance/special allowance, and other components as structured by the Company.",
+        "source": "employment.txt",
+        "chunk_id": 28
+    },
+    {
+        "text": "7.4 Compensation shall be reviewed periodically at the Company\u2019s discretion and shall not be deemed automatically subject to annual increment.\n\n---\n\n## 8. BONUS STRUCTURE",
+        "source": "employment.txt",
+        "chunk_id": 29
+    },
+    {
+        "text": "---\n\n## 8. BONUS STRUCTURE\n\n8.1 The Employee shall be eligible for an annual performance-linked bonus up to **15% of annual fixed salary** (target bonus), subject to:\n\n  8.1.1 individual performance against defined goals;\n\n  8.1.2 team and business performance metrics;",
+        "source": "employment.txt",
+        "chunk_id": 30
+    },
+    {
+        "text": "8.1.2 team and business performance metrics;\n\n  8.1.3 continued employment on the date of bonus payout.\n\n8.2 Bonus is discretionary and non-guaranteed unless expressly communicated in writing.",
+        "source": "employment.txt",
+        "chunk_id": 31
+    },
+    {
+        "text": "8.3 Where the Employee separates from employment before payout date, no bonus shall be payable unless mandated by Applicable Law or approved in writing by the Company.\n\n---\n\n## 9. ESOP ELIGIBILITY",
+        "source": "employment.txt",
+        "chunk_id": 32
+    },
+    {
+        "text": "9.1 Subject to board and shareholder approvals and applicable ESOP scheme rules, the Employee shall be eligible for a one-time grant of up to **12,000 stock options** under the Company\u2019s Employee Stock Option Plan, vesting over four (4) years with a one-year cliff (25% vesting on completion of 12",
+        "source": "employment.txt",
+        "chunk_id": 33
+    },
+    {
+        "text": "a one-year cliff (25% vesting on completion of 12 months from grant date, thereafter monthly/quarterly vesting as per plan terms).",
+        "source": "employment.txt",
+        "chunk_id": 34
+    },
+    {
+        "text": "9.2 ESOPs are governed exclusively by the ESOP Plan document, grant letter, and Applicable Law. In case of conflict, the ESOP Plan shall prevail for option-related matters.\n\n9.3 Unvested options shall lapse on cessation of employment except as otherwise provided under the ESOP Plan.\n\n---",
+        "source": "employment.txt",
+        "chunk_id": 35
+    },
+    {
+        "text": "---\n\n## 10. WORKING HOURS\n\n10.1 The Employee\u2019s normal working hours shall be 9.5 hours per workday (inclusive of breaks), Monday through Friday, aligned to business needs.\n\n10.2 Core collaboration hours are 10:30 a.m. to 5:30 p.m. IST.",
+        "source": "employment.txt",
+        "chunk_id": 36
+    },
+    {
+        "text": "10.3 Given the managerial and technical nature of the role, the Employee may be required to work beyond standard hours to meet production deadlines, release windows, incident response obligations, or urgent business requirements, in compliance with Applicable Law.\n\n---\n\n## 11. LEAVE POLICY",
+        "source": "employment.txt",
+        "chunk_id": 37
+    },
+    {
+        "text": "---\n\n## 11. LEAVE POLICY\n\n11.1 The Employee shall be entitled to paid leave in accordance with Company policy and Applicable Law, currently comprising:\n\n  11.1.1 Privileged/Earned Leave: 18 working days per calendar year (pro-rated for partial year);",
+        "source": "employment.txt",
+        "chunk_id": 38
+    },
+    {
+        "text": "11.1.2 Casual Leave: 6 working days per calendar year;\n\n  11.1.3 Sick Leave: 12 working days per calendar year;\n\n  11.1.4 Public holidays as notified by the Company.",
+        "source": "employment.txt",
+        "chunk_id": 39
+    },
+    {
+        "text": "11.2 Leave must be pre-approved except in emergencies or illness, where notice shall be given at the earliest practical opportunity.\n\n11.3 Carry-forward, encashment, and lapse of leave shall be governed by Company policy and statutory requirements.\n\n---\n\n## 12. CONFIDENTIALITY",
+        "source": "employment.txt",
+        "chunk_id": 40
+    },
+    {
+        "text": "---\n\n## 12. CONFIDENTIALITY\n\n12.1 During and after employment, the Employee shall maintain strict confidentiality regarding all non-public information relating to the Company, its affiliates, clients, partners, personnel, technology, and operations.",
+        "source": "employment.txt",
+        "chunk_id": 41
+    },
+    {
+        "text": "12.2 Confidential information includes source code, model parameters, prompts, legal datasets, pricing strategies, customer contracts, security architecture, and product roadmaps.",
+        "source": "employment.txt",
+        "chunk_id": 42
+    },
+    {
+        "text": "12.3 The Employee shall not, without prior written consent, disclose confidential information to any third party or use such information for any purpose other than discharge of official duties.\n\n12.4 This Clause shall survive termination in accordance with Clause 26.\n\n---",
+        "source": "employment.txt",
+        "chunk_id": 43
+    },
+    {
+        "text": "---\n\n## 13. INTELLECTUAL PROPERTY ASSIGNMENT",
+        "source": "employment.txt",
+        "chunk_id": 44
+    },
+    {
+        "text": "13.1 The Employee acknowledges that all works, inventions, designs, discoveries, developments, improvements, documentation, scripts, models, and other outputs conceived, authored, or reduced to practice by the Employee during employment and relating to the Company\u2019s business (collectively, **\u201cWork",
+        "source": "employment.txt",
+        "chunk_id": 45
+    },
+    {
+        "text": "to the Company\u2019s business (collectively, **\u201cWork Product\u201d**) shall be the sole property of the Company.",
+        "source": "employment.txt",
+        "chunk_id": 46
+    },
+    {
+        "text": "13.2 The Employee hereby irrevocably assigns to the Company all rights, title, and interest in and to such Work Product, including copyrights, patents, design rights, database rights, trade secrets, and all analogous rights worldwide.\n\n13.3 Illustrative examples include:",
+        "source": "employment.txt",
+        "chunk_id": 47
+    },
+    {
+        "text": "13.3 Illustrative examples include:\n\n  13.3.1 a contract clause classification model built during a Company sprint;\n\n  13.3.2 a retrieval-augmented generation orchestration engine developed using Company datasets;\n\n  13.3.3 a deployment automation script for legal document redlining services.",
+        "source": "employment.txt",
+        "chunk_id": 48
+    },
+    {
+        "text": "13.4 The Employee shall execute all documents and provide assistance reasonably required to perfect, register, enforce, or defend the Company\u2019s IP rights, even after cessation of employment, with reasonable out-of-pocket expenses reimbursed.\n\n---\n\n## 14. NON-COMPETE",
+        "source": "employment.txt",
+        "chunk_id": 49
+    },
+    {
+        "text": "---\n\n## 14. NON-COMPETE\n\n14.1 During employment, the Employee shall not directly or indirectly engage in any business competing with the Company\u2019s core business of AI-driven legal technology platforms, contract intelligence products, legal workflow automation, and allied services.",
+        "source": "employment.txt",
+        "chunk_id": 50
+    },
+    {
+        "text": "14.2 Post-termination, the Employee shall comply with restrictions enforceable under Applicable Law. The Parties acknowledge that post-employment restraints shall be interpreted to the extent permissible under Indian law.",
+        "source": "employment.txt",
+        "chunk_id": 51
+    },
+    {
+        "text": "14.3 Nothing in this Clause prevents passive holding of publicly listed securities not exceeding 2% of voting rights in any competing entity.\n\n---\n\n## 15. NON-SOLICITATION",
+        "source": "employment.txt",
+        "chunk_id": 52
+    },
+    {
+        "text": "---\n\n## 15. NON-SOLICITATION\n\n15.1 During employment and for twelve (12) months following termination, the Employee shall not directly or indirectly solicit or induce:",
+        "source": "employment.txt",
+        "chunk_id": 53
+    },
+    {
+        "text": "15.1.1 any employee, consultant, or contractor of the Company with whom the Employee had material interaction in the preceding twelve months, to terminate or reduce engagement with the Company;",
+        "source": "employment.txt",
+        "chunk_id": 54
+    },
+    {
+        "text": "15.1.2 any customer or prospective customer of the Company to cease, reduce, or divert business from the Company;\n\n  15.1.3 any vendor or strategic partner to materially alter existing commercial terms to the detriment of the Company.",
+        "source": "employment.txt",
+        "chunk_id": 55
+    },
+    {
+        "text": "15.2 General solicitations through broad public advertisements not specifically targeting Company personnel shall not constitute breach of this Clause.\n\n---\n\n## 16. DATA PROTECTION",
+        "source": "employment.txt",
+        "chunk_id": 56
+    },
+    {
+        "text": "---\n\n## 16. DATA PROTECTION\n\n16.1 The Employee shall process all personal data and sensitive business data in accordance with Applicable Law, Company policies, and documented instructions.",
+        "source": "employment.txt",
+        "chunk_id": 57
+    },
+    {
+        "text": "16.2 The Employee shall promptly report suspected personal data breaches, unauthorized access, or policy deviations to the designated security and legal contacts.",
+        "source": "employment.txt",
+        "chunk_id": 58
+    },
+    {
+        "text": "16.3 The Employee shall use only approved tools and repositories for storage and processing of Company or customer data and shall not transfer data to personal devices or unauthorized cloud services.\n\n---\n\n## 17. CODE OWNERSHIP",
+        "source": "employment.txt",
+        "chunk_id": 59
+    },
+    {
+        "text": "## 17. CODE OWNERSHIP\n\n17.1 All code, scripts, libraries, modules, APIs, build pipelines, test suites, and technical documentation created, modified, or contributed by the Employee within the scope of employment, on Company systems, or using Company resources shall vest exclusively in the Company.",
+        "source": "employment.txt",
+        "chunk_id": 60
+    },
+    {
+        "text": "17.2 The Employee shall not assert lien, ownership, moral-right objections (to the extent waivable), or usage restrictions over such code.",
+        "source": "employment.txt",
+        "chunk_id": 61
+    },
+    {
+        "text": "17.3 Personal pre-existing code brought by the Employee into Company systems must be pre-declared in writing and approved; otherwise it shall be presumed to be Work Product under Clause 13.\n\n---\n\n## 18. OPEN SOURCE USAGE POLICY",
+        "source": "employment.txt",
+        "chunk_id": 62
+    },
+    {
+        "text": "---\n\n## 18. OPEN SOURCE USAGE POLICY\n\n18.1 The Employee shall comply with the Company\u2019s Open Source Software (OSS) Policy, including approval workflows for introducing third-party components.",
+        "source": "employment.txt",
+        "chunk_id": 63
+    },
+    {
+        "text": "18.2 The Employee shall not incorporate copyleft or restrictive-license code (including GPL-family licenses or similar reciprocal licenses) into proprietary repositories without express written legal and security clearance.",
+        "source": "employment.txt",
+        "chunk_id": 64
+    },
+    {
+        "text": "18.3 The Employee shall maintain accurate software bill-of-materials records where required and ensure proper attribution and license notices for approved OSS usage.\n\n18.4 Any external code contribution made in the Employee\u2019s capacity with the Company requires prior written authorization.\n\n---",
+        "source": "employment.txt",
+        "chunk_id": 65
+    },
+    {
+        "text": "---\n\n## 19. PERFORMANCE REVIEWS\n\n19.1 The Employee\u2019s performance shall be reviewed periodically, typically semi-annually, against role expectations, engineering quality metrics, delivery outcomes, collaboration standards, and leadership contributions.",
+        "source": "employment.txt",
+        "chunk_id": 66
+    },
+    {
+        "text": "19.2 The Company may establish a Performance Improvement Plan (**\u201cPIP\u201d**) where performance materially falls below expectations.",
+        "source": "employment.txt",
+        "chunk_id": 67
+    },
+    {
+        "text": "19.3 Failure to satisfactorily complete a PIP within prescribed timelines may lead to disciplinary measures, including reassignment, withholding discretionary benefits, or termination under Clause 21.\n\n---\n\n## 20. DISCIPLINARY ACTIONS",
+        "source": "employment.txt",
+        "chunk_id": 68
+    },
+    {
+        "text": "---\n\n## 20. DISCIPLINARY ACTIONS\n\n20.1 The Company may take disciplinary action for misconduct, poor performance, policy violation, or breach of this Agreement.\n\n20.2 Misconduct includes, without limitation:\n\n  20.2.1 theft, fraud, embezzlement, or falsification of records;",
+        "source": "employment.txt",
+        "chunk_id": 69
+    },
+    {
+        "text": "20.2.2 unauthorized disclosure of confidential information or source code;\n\n  20.2.3 harassment, discrimination, or workplace violence;\n\n  20.2.4 deliberate security violations, credential sharing, or unauthorized system access;",
+        "source": "employment.txt",
+        "chunk_id": 70
+    },
+    {
+        "text": "20.2.5 intoxication at work or possession of prohibited substances at workplace;\n\n  20.2.6 conflict of interest, bribery, or acceptance of unlawful gratifications.",
+        "source": "employment.txt",
+        "chunk_id": 71
+    },
+    {
+        "text": "20.3 Disciplinary actions may include warning letters, suspension, loss of privileges, demotion where lawful, or termination depending on severity and recurrence.\n\n---\n\n## 21. TERMINATION BY EMPLOYER",
+        "source": "employment.txt",
+        "chunk_id": 72
+    },
+    {
+        "text": "---\n\n## 21. TERMINATION BY EMPLOYER\n\n21.1 The Company may terminate employment without cause by providing **ninety (90) days\u2019 notice** in writing or salary in lieu of notice, in whole or part, subject to Applicable Law and Clause 23.",
+        "source": "employment.txt",
+        "chunk_id": 73
+    },
+    {
+        "text": "21.2 The Company may terminate employment with immediate effect, without notice or payment in lieu (to the extent legally permissible), for cause including gross misconduct, fraud, willful disobedience, material breach of confidentiality/IP obligations, or criminal conviction involving moral",
+        "source": "employment.txt",
+        "chunk_id": 74
+    },
+    {
+        "text": "or criminal conviction involving moral turpitude.",
+        "source": "employment.txt",
+        "chunk_id": 75
+    },
+    {
+        "text": "21.3 The Company may terminate employment on grounds of redundancy, role elimination, restructuring, long-term incapacity, or business exigency, with notice and statutory dues as applicable.\n\n21.4 During notice period, the Company may require the Employee to:\n\n  21.4.1 continue active duties;",
+        "source": "employment.txt",
+        "chunk_id": 76
+    },
+    {
+        "text": "21.4.1 continue active duties;\n\n  21.4.2 serve a garden-leave period with restricted system access;\n\n  21.4.3 complete transition, documentation, and handover obligations.",
+        "source": "employment.txt",
+        "chunk_id": 77
+    },
+    {
+        "text": "21.5 During the **Probation Period** of six (6) months, either Party may terminate employment by giving thirty (30) days\u2019 notice or salary in lieu, unless termination is for cause.\n\n---\n\n## 22. TERMINATION BY EMPLOYEE",
+        "source": "employment.txt",
+        "chunk_id": 78
+    },
+    {
+        "text": "---\n\n## 22. TERMINATION BY EMPLOYEE\n\n22.1 After confirmation of employment, the Employee may resign by giving the Company **ninety (90) days\u2019 prior written notice**.\n\n22.2 During probation, resignation notice shall be thirty (30) days unless waived by the Company.",
+        "source": "employment.txt",
+        "chunk_id": 79
+    },
+    {
+        "text": "22.3 The Company may, at its discretion, accept shorter notice subject to recovery of shortfall in notice period salary and completion of satisfactory handover.",
+        "source": "employment.txt",
+        "chunk_id": 80
+    },
+    {
+        "text": "22.4 The Employee shall return all Company property, credentials, documents, and assets on or before last working day and comply with exit procedures.\n\n---\n\n## 23. SEVERANCE\n\n23.1 In case of termination without cause under Clause 21.1, the Employee shall be entitled to:",
+        "source": "employment.txt",
+        "chunk_id": 81
+    },
+    {
+        "text": "23.1.1 salary and benefits up to last working day;\n\n  23.1.2 payment in lieu of unserved notice period, where applicable;\n\n  23.1.3 accrued but unused earned leave encashment as per policy and law;",
+        "source": "employment.txt",
+        "chunk_id": 82
+    },
+    {
+        "text": "23.1.4 statutory severance/retrenchment compensation, if and to the extent required by Applicable Law.\n\n23.2 No severance shall be payable in cases of termination for cause under Clause 21.2, except statutory dues mandatorily payable under law.",
+        "source": "employment.txt",
+        "chunk_id": 83
+    },
+    {
+        "text": "23.3 Any severance or ex gratia payment may be made conditional upon execution of a full and final settlement and release agreement.\n\n---\n\n## 24. GOVERNING LAW (INDIA)\n\n24.1 This Agreement shall be governed by and construed in accordance with the laws of India.",
+        "source": "employment.txt",
+        "chunk_id": 84
+    },
+    {
+        "text": "24.2 Subject to Clause 25, courts at Bengaluru, Karnataka shall have jurisdiction for interim and supervisory matters.\n\n---\n\n## 25. ARBITRATION",
+        "source": "employment.txt",
+        "chunk_id": 85
+    },
+    {
+        "text": "---\n\n## 25. ARBITRATION\n\n25.1 Any dispute arising out of or in connection with this Agreement, including questions of interpretation, validity, breach, or termination, shall first be attempted to be resolved amicably within thirty (30) days.",
+        "source": "employment.txt",
+        "chunk_id": 86
+    },
+    {
+        "text": "25.2 Failing amicable resolution, the dispute shall be referred to arbitration under the Arbitration and Conciliation Act, 1996 (as amended).",
+        "source": "employment.txt",
+        "chunk_id": 87
+    },
+    {
+        "text": "25.3 The tribunal shall consist of a sole arbitrator appointed mutually by the Parties; failing consensus, appointment shall be made in accordance with law.\n\n25.4 The seat and venue of arbitration shall be **Bengaluru, India**.",
+        "source": "employment.txt",
+        "chunk_id": 88
+    },
+    {
+        "text": "25.5 The language of arbitration shall be English. The award shall be final and binding.\n\n25.6 Nothing herein prevents the Company from seeking urgent injunctive or equitable relief from competent courts for protection of confidentiality, data, or intellectual property.\n\n---",
+        "source": "employment.txt",
+        "chunk_id": 89
+    },
+    {
+        "text": "---\n\n## 26. SURVIVAL CLAUSES",
+        "source": "employment.txt",
+        "chunk_id": 90
+    },
+    {
+        "text": "26.1 The following clauses shall survive termination or expiry of employment: Clause 12 (Confidentiality), Clause 13 (Intellectual Property Assignment), Clause 15 (Non-Solicitation), Clause 16 (Data Protection), Clause 17 (Code Ownership), Clause 18 (Open Source Usage obligations to the extent",
+        "source": "employment.txt",
+        "chunk_id": 91
+    },
+    {
+        "text": "18 (Open Source Usage obligations to the extent applicable), Clause 24 (Governing Law), Clause 25 (Arbitration), and this Clause 26.",
+        "source": "employment.txt",
+        "chunk_id": 92
+    },
+    {
+        "text": "26.2 Termination of employment shall not affect rights accrued prior to termination or obligations which by nature are intended to continue.\n\n---\n\n## 27. GENERAL PROVISIONS",
+        "source": "employment.txt",
+        "chunk_id": 93
+    },
+    {
+        "text": "---\n\n## 27. GENERAL PROVISIONS\n\n27.1 This Agreement constitutes the entire agreement between the Parties concerning employment terms and supersedes prior discussions and correspondence.\n\n27.2 Any amendment shall be valid only if made in writing and signed by both Parties.",
+        "source": "employment.txt",
+        "chunk_id": 94
+    },
+    {
+        "text": "27.3 If any provision is held invalid or unenforceable, remaining provisions shall continue in full force, and the invalid provision shall be modified to the minimum extent required to make it enforceable.",
+        "source": "employment.txt",
+        "chunk_id": 95
+    },
+    {
+        "text": "27.4 Failure to enforce any provision shall not constitute waiver of future enforcement rights.\n\n27.5 The Employee confirms that entering into this Agreement does not breach any prior contractual obligations.\n\n---\n\n### IN WITNESS WHEREOF",
+        "source": "employment.txt",
+        "chunk_id": 96
+    },
+    {
+        "text": "---\n\n### IN WITNESS WHEREOF\n\nThe Parties hereto have executed this Employment Agreement on the date first written above.",
+        "source": "employment.txt",
+        "chunk_id": 97
+    },
+    {
+        "text": "For **LexiMind AI Technologies Private Limited**  \nName: **Nisha Krishnan**  \nDesignation: **Chief Human Resources Officer**  \nDate: **23 June 2026**  \nSignature: ______________________\n\nEmployee  \nName: **Arjun Malhotra**  \nDate: **23 June 2026**  \nSignature: ______________________",
+        "source": "employment.txt",
+        "chunk_id": 98
+    },
+    {
+        "text": "Witness 1  \nName: ______________________  \nAddress: ____________________  \nSignature: __________________\n\nWitness 2  \nName: ______________________  \nAddress: ____________________  \nSignature: __________________",
+        "source": "employment.txt",
+        "chunk_id": 99
+    },
+    {
+        "text": "# MASTER SERVICES AGREEMENT\n\nThis Master Services Agreement (the **\u201cAgreement\u201d**) is made and entered into on **23 June 2026** (the **\u201cEffective Date\u201d**)\n\n**BY AND BETWEEN**",
+        "source": "msa.txt",
+        "chunk_id": 0
+    },
+    {
+        "text": "**BY AND BETWEEN**\n\n**PrismForge Technologies Private Limited**, a company incorporated under the Companies Act, 2013, with registered office at 12th Floor, One BKC Tower, Bandra Kurla Complex, Mumbai, Maharashtra 400051, India (**\u201cVendor\u201d**);\n\nand",
+        "source": "msa.txt",
+        "chunk_id": 1
+    },
+    {
+        "text": "and\n\n**Nexora Enterprises Limited**, a company incorporated under the Companies Act, 2013, with corporate office at 8th Floor, Meridian Business Park, Outer Ring Road, Bengaluru, Karnataka 560103, India (**\u201cCustomer\u201d**).\n\nVendor and Customer are each a **\u201cParty\u201d** and together the **\u201cParties.\u201d**",
+        "source": "msa.txt",
+        "chunk_id": 2
+    },
+    {
+        "text": "## 1. Parties\n1.1 This Agreement governs Customer\u2019s purchase and Vendor\u2019s provision of AI-enabled software services and related professional services as described herein and in each Statement of Work.",
+        "source": "msa.txt",
+        "chunk_id": 3
+    },
+    {
+        "text": "1.2 Affiliates may procure Services under this Agreement by executing separate SOWs referencing this Agreement.",
+        "source": "msa.txt",
+        "chunk_id": 4
+    },
+    {
+        "text": "## 2. Definitions\n2.1 **\u201cServices\u201d** means the SaaS platform, API access, support, and professional services provided by Vendor.  \n2.2 **\u201cPlatform\u201d** means Vendor\u2019s hosted AI contract intelligence and workflow automation product branded \u201cPrismForge LegalAI Cloud.\u201d",
+        "source": "msa.txt",
+        "chunk_id": 5
+    },
+    {
+        "text": "2.3 **\u201cSOW\u201d** means a Statement of Work signed by both Parties.  \n2.4 **\u201cDeliverables\u201d** means tangible work product identified in an SOW.  \n2.5 **\u201cService Levels\u201d** means uptime and support commitments in Section 5.",
+        "source": "msa.txt",
+        "chunk_id": 6
+    },
+    {
+        "text": "2.6 **\u201cCustomer Data\u201d** means all data submitted by or on behalf of Customer to the Services.  \n2.7 **\u201cACV\u201d** means annual contract value payable by Customer for subscription Services.  \n2.8 **\u201cBusiness Day\u201d** means a day other than Saturday, Sunday, or public holiday in Mumbai, India.",
+        "source": "msa.txt",
+        "chunk_id": 7
+    },
+    {
+        "text": "## 3. Scope of Services\n3.1 Vendor shall provide:  \n(a) subscription-based access to the Platform on a SaaS basis;  \n(b) API access for integration with Customer systems, subject to rate limits and technical documentation;",
+        "source": "msa.txt",
+        "chunk_id": 8
+    },
+    {
+        "text": "(c) implementation, onboarding, configuration, and training services as set out in applicable SOWs;  \n(d) maintenance, support, and updates.  \n3.2 Customer receives a non-exclusive, non-transferable, non-sublicensable right during the Term to use the Services for internal business purposes.",
+        "source": "msa.txt",
+        "chunk_id": 9
+    },
+    {
+        "text": "## 4. Statements of Work\n4.1 Specific services, timelines, milestones, assumptions, dependencies, and fees shall be defined in one or more SOWs.  \n4.2 In case of conflict, order of precedence shall be: (i) signed SOW; (ii) this Agreement; (iii) exhibits/policies referenced herein.",
+        "source": "msa.txt",
+        "chunk_id": 10
+    },
+    {
+        "text": "4.3 No SOW is binding unless executed by authorized signatories of both Parties.",
+        "source": "msa.txt",
+        "chunk_id": 11
+    },
+    {
+        "text": "## 5. Service Levels\n5.1 Vendor commits to **99.9% monthly uptime** for production SaaS Services, excluding Scheduled Maintenance (not exceeding 6 hours/month) and Excluded Downtime.  \n5.2 If monthly uptime falls below 99.9%, Customer shall be entitled to service credits as follows:",
+        "source": "msa.txt",
+        "chunk_id": 12
+    },
+    {
+        "text": "(a) 99.0% to <99.9%: 5% of monthly subscription fee;  \n(b) 98.0% to <99.0%: 10%;  \n(c) <98.0%: 15%.",
+        "source": "msa.txt",
+        "chunk_id": 13
+    },
+    {
+        "text": "(b) 98.0% to <99.0%: 10%;  \n(c) <98.0%: 15%.  \n5.3 Total credits in any month are capped at 15% of monthly subscription fees and are Customer\u2019s sole remedy for SLA breach, without prejudice to termination rights under Section 26 for chronic failure.",
+        "source": "msa.txt",
+        "chunk_id": 14
+    },
+    {
+        "text": "5.4 Severity 1 incidents (production outage/security-critical) shall have 30-minute response and continuous remediation efforts.",
+        "source": "msa.txt",
+        "chunk_id": 15
+    },
+    {
+        "text": "## 6. Deliverables\n6.1 Vendor shall deliver Deliverables in accordance with the applicable SOW and industry standards.  \n6.2 Unless expressly stated, Deliverables are deemed accepted upon completion of Acceptance Criteria under Section 12.",
+        "source": "msa.txt",
+        "chunk_id": 16
+    },
+    {
+        "text": "## 7. Customer Responsibilities\n7.1 Customer shall:  \n(a) provide timely access to personnel, systems, and information reasonably required;  \n(b) ensure legality, accuracy, and rights to use Customer Data;  \n(c) maintain secure credentials and notify Vendor of unauthorized use;",
+        "source": "msa.txt",
+        "chunk_id": 17
+    },
+    {
+        "text": "(d) appoint a project manager for governance and approvals.  \n7.2 Delays caused by Customer dependencies may result in equitable timeline adjustments.",
+        "source": "msa.txt",
+        "chunk_id": 18
+    },
+    {
+        "text": "## 8. Vendor Responsibilities\n8.1 Vendor shall perform Services in a professional and workmanlike manner using qualified personnel.  \n8.2 Vendor shall maintain helpdesk support, monitoring, incident management, and change management practices.",
+        "source": "msa.txt",
+        "chunk_id": 19
+    },
+    {
+        "text": "8.3 Vendor shall not materially degrade core functionality during the Subscription Term.",
+        "source": "msa.txt",
+        "chunk_id": 20
+    },
+    {
+        "text": "## 9. Fees and Payment Terms\n9.1 Customer shall pay fees set out in each SOW/order form.  \n9.2 Initial commercial terms: ACV of **INR 2,40,00,000** for 12-month subscription, billed quarterly in advance; one-time implementation fee of **INR 30,00,000**.",
+        "source": "msa.txt",
+        "chunk_id": 21
+    },
+    {
+        "text": "9.3 Payment is due within **30 days** from undisputed invoice date.  \n9.4 Late undisputed payments may incur interest at 1.5% per month or maximum lawful rate, whichever is lower.  \n9.5 Fees are non-cancelable and non-refundable except as expressly provided.",
+        "source": "msa.txt",
+        "chunk_id": 22
+    },
+    {
+        "text": "## 10. Taxes\n10.1 Fees exclude GST and other applicable indirect taxes, which shall be charged additionally.  \n10.2 Each Party is responsible for taxes imposed on its income, payroll, and corporate existence.",
+        "source": "msa.txt",
+        "chunk_id": 23
+    },
+    {
+        "text": "10.3 If withholding tax applies, Customer may deduct and remit as legally required and shall provide valid withholding certificates.",
+        "source": "msa.txt",
+        "chunk_id": 24
+    },
+    {
+        "text": "## 11. Change Requests\n11.1 Either Party may propose changes to scope, timelines, deliverables, or assumptions via written Change Request.  \n11.2 Vendor shall provide impact assessment on fees, schedule, and resources.  \n11.3 Changes become effective only upon signed Change Order.",
+        "source": "msa.txt",
+        "chunk_id": 25
+    },
+    {
+        "text": "## 12. Acceptance Criteria\n12.1 Each SOW shall specify objective Acceptance Criteria and testing procedure.  \n12.2 Customer shall conduct acceptance testing within 10 Business Days of delivery.",
+        "source": "msa.txt",
+        "chunk_id": 26
+    },
+    {
+        "text": "12.3 If Deliverables materially fail Acceptance Criteria, Customer shall provide written rejection reasons; Vendor shall remediate and resubmit.  \n12.4 Deliverables shall be deemed accepted if Customer uses them in production or fails to respond within acceptance window.",
+        "source": "msa.txt",
+        "chunk_id": 27
+    },
+    {
+        "text": "## 13. Warranties\n13.1 Vendor warrants that during the Term:  \n(a) Services will materially conform to documentation;  \n(b) Services will be performed with reasonable skill and care;  \n(c) Vendor has authority to grant rights under this Agreement.",
+        "source": "msa.txt",
+        "chunk_id": 28
+    },
+    {
+        "text": "13.2 Customer warrants it has rights to provide Customer Data and that such use does not violate Applicable Law.  \n13.3 Except as expressly stated, Services are provided \u201cas is,\u201d and all implied warranties are disclaimed to the maximum extent permitted by law.",
+        "source": "msa.txt",
+        "chunk_id": 29
+    },
+    {
+        "text": "## 14. Intellectual Property\n14.1 Vendor retains all rights in the Platform, software, models, APIs, documentation, and pre-existing materials.  \n14.2 Customer retains all rights in Customer Data and Customer trademarks.",
+        "source": "msa.txt",
+        "chunk_id": 30
+    },
+    {
+        "text": "14.3 Subject to this Agreement, Vendor may use aggregated and de-identified telemetry for service improvement, provided no Customer-identifiable data is disclosed.",
+        "source": "msa.txt",
+        "chunk_id": 31
+    },
+    {
+        "text": "14.4 Custom Deliverables specifically paid for under an SOW shall be licensed to Customer on a perpetual, non-exclusive basis unless otherwise stated.",
+        "source": "msa.txt",
+        "chunk_id": 32
+    },
+    {
+        "text": "## 15. Confidentiality\n15.1 Each Party shall protect the other Party\u2019s Confidential Information using at least reasonable care and not less than the care used for its own similar information.  \n15.2 Confidential Information shall be used solely to perform or receive Services.",
+        "source": "msa.txt",
+        "chunk_id": 33
+    },
+    {
+        "text": "15.3 Confidentiality obligations shall not apply to information that is public, independently developed, rightfully received from third party, or required by law to be disclosed (with prior notice where lawful).  \n15.4 Obligations survive for 5 years from disclosure.",
+        "source": "msa.txt",
+        "chunk_id": 34
+    },
+    {
+        "text": "## 16. Data Processing\n16.1 Vendor shall process Customer Data solely on documented instructions from Customer and only for providing Services.",
+        "source": "msa.txt",
+        "chunk_id": 35
+    },
+    {
+        "text": "16.2 Vendor shall store primary production Customer Data in data centers located in **India** and shall not transfer identifiable Customer Data outside India without prior written consent.  \n16.3 Parties shall execute a Data Processing Addendum where required by Applicable Law.",
+        "source": "msa.txt",
+        "chunk_id": 36
+    },
+    {
+        "text": "## 17. Security Requirements\n17.1 Vendor shall maintain an information security program aligned to ISO 27001 or equivalent controls, including:  \n(a) encryption in transit (TLS 1.2+) and at rest (AES-256 or equivalent);  \n(b) role-based access control and MFA for privileged users;",
+        "source": "msa.txt",
+        "chunk_id": 37
+    },
+    {
+        "text": "(c) vulnerability management and annual penetration testing;  \n(d) logging, monitoring, and secure backup.  \n17.2 Vendor shall maintain least-privilege access and periodic access recertification.",
+        "source": "msa.txt",
+        "chunk_id": 38
+    },
+    {
+        "text": "## 18. Cybersecurity Incident Response\n18.1 Vendor shall notify Customer of a confirmed cybersecurity incident affecting Customer Data without undue delay, and in any event within **24 hours** of confirmation.",
+        "source": "msa.txt",
+        "chunk_id": 39
+    },
+    {
+        "text": "18.2 Vendor shall provide incident details, containment actions, remediation plan, and periodic updates.  \n18.3 Vendor shall cooperate with Customer\u2019s reasonable forensic, regulatory, and contractual response obligations.",
+        "source": "msa.txt",
+        "chunk_id": 40
+    },
+    {
+        "text": "## 19. Compliance Requirements\n19.1 Each Party shall comply with Applicable Law, including anti-bribery, sanctions, export controls, labor, tax, and data protection laws.  \n19.2 Vendor shall maintain policies and training reasonably designed to ensure ongoing compliance.",
+        "source": "msa.txt",
+        "chunk_id": 41
+    },
+    {
+        "text": "19.3 Customer shall not use Services for unlawful, infringing, or prohibited content generation activities.",
+        "source": "msa.txt",
+        "chunk_id": 42
+    },
+    {
+        "text": "## 20. Audit Rights\n20.1 Customer may, no more than once annually, audit Vendor\u2019s compliance with Sections 16\u201319 upon 30 days\u2019 notice, during business hours, and subject to confidentiality safeguards.",
+        "source": "msa.txt",
+        "chunk_id": 43
+    },
+    {
+        "text": "20.2 In lieu of on-site audit, Vendor may provide recent independent audit reports/certifications (e.g., ISO/SOC) where sufficient.  \n20.3 Customer bears audit costs unless material non-compliance is identified, in which case Vendor shall bear reasonable remediation verification costs.",
+        "source": "msa.txt",
+        "chunk_id": 44
+    },
+    {
+        "text": "## 21. Indemnification\n21.1 Vendor shall defend and indemnify Customer against third-party claims alleging Services infringe intellectual property rights, and pay resulting damages/costs finally awarded or settled with Vendor consent.",
+        "source": "msa.txt",
+        "chunk_id": 45
+    },
+    {
+        "text": "21.2 Vendor may, at its option, procure rights, modify Services, or replace infringing components; if not commercially reasonable, Vendor may terminate affected Services and refund prepaid unused fees for terminated portion.",
+        "source": "msa.txt",
+        "chunk_id": 46
+    },
+    {
+        "text": "21.3 Customer shall defend and indemnify Vendor against third-party claims arising from Customer Data or Customer\u2019s unlawful use of Services.  \n21.4 Indemnified Party shall promptly notify, provide cooperation, and allow control of defense to indemnifying Party.",
+        "source": "msa.txt",
+        "chunk_id": 47
+    },
+    {
+        "text": "## 22. Limitation of Liability\n22.1 Except for Excluded Claims, each Party\u2019s aggregate liability under this Agreement shall not exceed **100% of fees paid or payable in the 12 months preceding the event giving rise to liability**.",
+        "source": "msa.txt",
+        "chunk_id": 48
+    },
+    {
+        "text": "22.2 Neither Party is liable for indirect, consequential, special, exemplary, or punitive damages, including lost profits or goodwill.  \n22.3 **Excluded Claims**: breach of confidentiality, data protection obligations, indemnification liabilities, fraud, willful misconduct, and unpaid fees.",
+        "source": "msa.txt",
+        "chunk_id": 49
+    },
+    {
+        "text": "## 23. Insurance\n23.1 Vendor shall maintain during the Term:  \n(a) Professional Indemnity / Errors & Omissions: INR 10,00,00,000 per claim;  \n(b) Cyber Liability: INR 15,00,00,000 per claim;  \n(c) Commercial General Liability: INR 5,00,00,000 per claim;",
+        "source": "msa.txt",
+        "chunk_id": 50
+    },
+    {
+        "text": "(d) Workers\u2019 compensation as required by law.  \n23.2 Certificates of insurance shall be furnished upon request.",
+        "source": "msa.txt",
+        "chunk_id": 51
+    },
+    {
+        "text": "## 24. Force Majeure\n24.1 Neither Party is liable for delay/failure caused by events beyond reasonable control, excluding payment obligations.  \n24.2 Affected Party shall notify promptly and mitigate impacts.",
+        "source": "msa.txt",
+        "chunk_id": 52
+    },
+    {
+        "text": "24.3 If force majeure continues beyond 60 days, either Party may terminate affected Services on written notice.",
+        "source": "msa.txt",
+        "chunk_id": 53
+    },
+    {
+        "text": "## 25. Suspension of Services\n25.1 Vendor may suspend Services, upon prior notice where practicable, for:  \n(a) material security risk;  \n(b) Customer\u2019s unlawful use;  \n(c) non-payment exceeding 30 days after written reminder;  \n(d) emergency maintenance.",
+        "source": "msa.txt",
+        "chunk_id": 54
+    },
+    {
+        "text": "(d) emergency maintenance.  \n25.2 Vendor shall restore Services promptly once grounds for suspension are cured.",
+        "source": "msa.txt",
+        "chunk_id": 55
+    },
+    {
+        "text": "## 26. Termination for Cause\n26.1 Either Party may terminate this Agreement or an SOW for material breach not cured within 30 days after written notice.  \n26.2 Customer may terminate for cause if Vendor fails Service Levels for 3 consecutive months or 4 months in any rolling 12-month period.",
+        "source": "msa.txt",
+        "chunk_id": 56
+    },
+    {
+        "text": "26.3 Upon termination for Vendor breach, Customer is entitled to refund of prepaid unused subscription fees for terminated period.",
+        "source": "msa.txt",
+        "chunk_id": 57
+    },
+    {
+        "text": "## 27. Termination for Convenience\n27.1 Customer may terminate an SOW for convenience after initial 12-month committed period, with 90 days\u2019 written notice.",
+        "source": "msa.txt",
+        "chunk_id": 58
+    },
+    {
+        "text": "27.2 Vendor may terminate for convenience only if all affected Services are sunset across similarly situated customers, with at least 180 days\u2019 notice and transition support under Section 28.",
+        "source": "msa.txt",
+        "chunk_id": 59
+    },
+    {
+        "text": "## 28. Transition Assistance\n28.1 For up to 6 months post-termination, Vendor shall provide reasonable transition assistance at then-current professional services rates.",
+        "source": "msa.txt",
+        "chunk_id": 60
+    },
+    {
+        "text": "28.2 Vendor shall enable export of Customer Data in commonly used machine-readable format and certify deletion of residual production data, subject to legal retention obligations.",
+        "source": "msa.txt",
+        "chunk_id": 61
+    },
+    {
+        "text": "## 29. Governing Law (India)\n29.1 This Agreement is governed by and construed in accordance with the laws of India.",
+        "source": "msa.txt",
+        "chunk_id": 62
+    },
+    {
+        "text": "## 30. Arbitration (Mumbai)\n30.1 Disputes not resolved amicably within 30 days shall be finally resolved by arbitration under the Arbitration and Conciliation Act, 1996 (as amended).  \n30.2 Seat and venue: **Mumbai, Maharashtra, India**.",
+        "source": "msa.txt",
+        "chunk_id": 63
+    },
+    {
+        "text": "30.3 Tribunal: sole arbitrator jointly appointed; failing agreement, appointed per law.  \n30.4 Language: English.  \n30.5 Nothing prevents either Party from seeking interim injunctive relief from courts in Mumbai.",
+        "source": "msa.txt",
+        "chunk_id": 64
+    },
+    {
+        "text": "## 31. Survival\n31.1 Sections 9 (accrued payment obligations), 14, 15, 16, 18, 21, 22, 28, 29, 30, 31, and 32 survive expiry or termination.\n\n## 32. Notices\n32.1 Notices shall be in writing and sent by courier or email with delivery confirmation to:",
+        "source": "msa.txt",
+        "chunk_id": 65
+    },
+    {
+        "text": "For Vendor:  \nLegal Department, PrismForge Technologies Private Limited  \n12th Floor, One BKC Tower, Bandra Kurla Complex, Mumbai 400051  \nEmail: legal@prismforge.ai",
+        "source": "msa.txt",
+        "chunk_id": 66
+    },
+    {
+        "text": "For Customer:  \nGeneral Counsel, Nexora Enterprises Limited  \n8th Floor, Meridian Business Park, Outer Ring Road, Bengaluru 560103  \nEmail: legal.notices@nexora.in",
+        "source": "msa.txt",
+        "chunk_id": 67
+    },
+    {
+        "text": "32.2 Notices are deemed received on delivery date (courier) or next Business Day after email transmission, unless bounce-back is received.\n\n---\n\nIN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives on the Effective Date.",
+        "source": "msa.txt",
+        "chunk_id": 68
+    },
+    {
+        "text": "For PrismForge Technologies Private Limited  \nName: __________________  \nTitle: ___________________  \nSignature: _______________  \nDate: ___________________",
+        "source": "msa.txt",
+        "chunk_id": 69
+    },
+    {
+        "text": "For Nexora Enterprises Limited  \nName: __________________  \nTitle: ___________________  \nSignature: _______________  \nDate: ___________________",
+        "source": "msa.txt",
+        "chunk_id": 70
+    },
+    {
+        "text": "# MUTUAL NON-DISCLOSURE AGREEMENT\n\nThis Mutual Non-Disclosure Agreement (the **\u201cAgreement\u201d** or **\u201cNDA\u201d**) is executed on this **23rd day of June 2026** (the **\u201cEffective Date\u201d**),\n\n**BY AND BETWEEN**",
+        "source": "nda.txt",
+        "chunk_id": 0
+    },
+    {
+        "text": "**(1) Asterion Cloud Systems Private Limited**, a company incorporated under the Companies Act, 2013, having Corporate Identification Number U72900MH2020PTC318451 and its registered office at 10th Floor, Meridian Tech Park, L.B.S. Marg, Kurla (West), Mumbai, Maharashtra 400070, India (hereinafter",
+        "source": "nda.txt",
+        "chunk_id": 1
+    },
+    {
+        "text": "Mumbai, Maharashtra 400070, India (hereinafter referred to as **\u201cAsterion\u201d**, which expression shall, unless repugnant to the context or meaning thereof, be deemed to include its successors and permitted assigns);",
+        "source": "nda.txt",
+        "chunk_id": 2
+    },
+    {
+        "text": "**AND**",
+        "source": "nda.txt",
+        "chunk_id": 3
+    },
+    {
+        "text": "**(2) Veridian Quantum Technologies Limited**, a public limited company incorporated under the Companies Act, 2013, having Corporate Identification Number U72200KA2018PLC110972 and its principal place of business at 7th Floor, Orion Towers, 100 Feet Road, Indiranagar, Bengaluru, Karnataka 560038,",
+        "source": "nda.txt",
+        "chunk_id": 4
+    },
+    {
+        "text": "Road, Indiranagar, Bengaluru, Karnataka 560038, India (hereinafter referred to as **\u201cVeridian\u201d**, which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns).",
+        "source": "nda.txt",
+        "chunk_id": 5
+    },
+    {
+        "text": "Asterion and Veridian are hereinafter individually referred to as a **\u201cParty\u201d** and collectively as the **\u201cParties.\u201d**\n\n---\n\n## 1. PARTIES AND PURPOSE",
+        "source": "nda.txt",
+        "chunk_id": 6
+    },
+    {
+        "text": "1.1 The Parties wish to explore and evaluate one or more potential commercial engagements relating to enterprise-grade artificial intelligence infrastructure, managed data platforms, cybersecurity tooling, and associated technology integration services (the **\u201cPermitted Purpose\u201d** or",
+        "source": "nda.txt",
+        "chunk_id": 7
+    },
+    {
+        "text": "services (the **\u201cPermitted Purpose\u201d** or **\u201cPurpose\u201d**).",
+        "source": "nda.txt",
+        "chunk_id": 8
+    },
+    {
+        "text": "1.2 In connection with the Purpose, each Party may disclose to the other certain Confidential Information (as defined in Clause 2.3), whether in oral, visual, electronic, digital, documentary, machine-readable, or any other form.",
+        "source": "nda.txt",
+        "chunk_id": 9
+    },
+    {
+        "text": "1.3 The Parties enter into this Agreement to define and regulate the terms upon which such Confidential Information shall be disclosed, received, handled, protected, and, where applicable, returned or destroyed, in accordance with Clauses 3, 5, 7, and 9.",
+        "source": "nda.txt",
+        "chunk_id": 10
+    },
+    {
+        "text": "1.4 This Agreement is **mutual** in nature. Accordingly, each Party may act as either a Disclosing Party or a Receiving Party at different times, and the obligations herein shall apply correspondingly.\n\n---\n\n## 2. DEFINITIONS",
+        "source": "nda.txt",
+        "chunk_id": 11
+    },
+    {
+        "text": "---\n\n## 2. DEFINITIONS\n\nFor the purposes of this Agreement, unless the context otherwise requires, the following terms shall have the meanings set forth below:",
+        "source": "nda.txt",
+        "chunk_id": 12
+    },
+    {
+        "text": "2.1 **\u201cAffiliate\u201d** means, with respect to a Party, any entity that directly or indirectly controls, is controlled by, or is under common control with such Party, where \u201ccontrol\u201d means ownership of more than fifty percent (50%) of the voting securities or equivalent power to direct management and",
+        "source": "nda.txt",
+        "chunk_id": 13
+    },
+    {
+        "text": "or equivalent power to direct management and policies.",
+        "source": "nda.txt",
+        "chunk_id": 14
+    },
+    {
+        "text": "2.2 **\u201cApplicable Law\u201d** means any statute, enactment, regulation, ordinance, rule, by-law, order, judgment, notification, circular, directive, guideline, policy, governmental approval, or decree of any competent governmental, judicial, quasi-judicial, or regulatory authority having jurisdiction,",
+        "source": "nda.txt",
+        "chunk_id": 15
+    },
+    {
+        "text": "or regulatory authority having jurisdiction, including all amendments and re-enactments.",
+        "source": "nda.txt",
+        "chunk_id": 16
+    },
+    {
+        "text": "2.3 **\u201cConfidential Information\u201d** means all non-public, proprietary, sensitive, or confidential information disclosed by or on behalf of a Disclosing Party to a Receiving Party in relation to the Purpose, including, without limitation, information specified in Clause 3.",
+        "source": "nda.txt",
+        "chunk_id": 17
+    },
+    {
+        "text": "2.4 **\u201cDisclosing Party\u201d** means the Party that discloses Confidential Information.\n\n2.5 **\u201cReceiving Party\u201d** means the Party that receives Confidential Information.",
+        "source": "nda.txt",
+        "chunk_id": 18
+    },
+    {
+        "text": "2.6 **\u201cRepresentatives\u201d** means, in relation to a Party, its directors, officers, employees, partners, auditors, legal advisors, consultants, contractors, temporary staff, and agents who have a strict need to know Confidential Information for the Purpose and who are bound by confidentiality",
+        "source": "nda.txt",
+        "chunk_id": 19
+    },
+    {
+        "text": "the Purpose and who are bound by confidentiality obligations no less protective than those under this Agreement.",
+        "source": "nda.txt",
+        "chunk_id": 20
+    },
+    {
+        "text": "2.7 **\u201cData Protection Laws\u201d** means all Applicable Laws relating to privacy, data protection, cybersecurity, and handling of personal data, including, to the extent applicable, the Digital Personal Data Protection Act, 2023 and subordinate rules thereunder, and relevant regulations issued by",
+        "source": "nda.txt",
+        "chunk_id": 21
+    },
+    {
+        "text": "thereunder, and relevant regulations issued by competent Indian authorities.",
+        "source": "nda.txt",
+        "chunk_id": 22
+    },
+    {
+        "text": "2.8 **\u201cBusiness Day\u201d** means any day other than a Saturday, Sunday, or a public holiday in Mumbai, Maharashtra.\n\n2.9 **\u201cCompelled Disclosure\u201d** means a disclosure required by Applicable Law, court order, arbitral order, or direction of a governmental or regulatory authority, subject to Clause 6.",
+        "source": "nda.txt",
+        "chunk_id": 23
+    },
+    {
+        "text": "2.10 **\u201cSecurity Incident\u201d** means any actual or reasonably suspected unauthorized access, acquisition, exfiltration, use, disclosure, alteration, encryption by malicious means, corruption, or loss of Confidential Information, whether accidental or unlawful.",
+        "source": "nda.txt",
+        "chunk_id": 24
+    },
+    {
+        "text": "2.11 **\u201cSolicit\u201d** and cognate terms include direct and indirect solicitation, inducement, enticement, recruitment, engagement, or attempted engagement, whether for employment, consultancy, advisory, or contractual services.\n\n---\n\n## 3. CONFIDENTIAL INFORMATION",
+        "source": "nda.txt",
+        "chunk_id": 25
+    },
+    {
+        "text": "---\n\n## 3. CONFIDENTIAL INFORMATION\n\n3.1 Without prejudice to the generality of Clause 2.3, Confidential Information shall include all information, materials, analyses, and know-how, whether provided before, on, or after the Effective Date, that are disclosed for or in relation to the Purpose.",
+        "source": "nda.txt",
+        "chunk_id": 26
+    },
+    {
+        "text": "3.2 Confidential Information includes, by way of illustration and not limitation:",
+        "source": "nda.txt",
+        "chunk_id": 27
+    },
+    {
+        "text": "3.2.1 technical information, including software source code, object code, APIs, system architecture diagrams, algorithmic models, model weights, prompts, pipelines, deployment scripts, libraries, SDKs, and integration interfaces;",
+        "source": "nda.txt",
+        "chunk_id": 28
+    },
+    {
+        "text": "3.2.2 product and engineering information, including product roadmaps, release schedules, quality benchmarks, incident logs, vulnerability assessments, threat models, and penetration test findings;",
+        "source": "nda.txt",
+        "chunk_id": 29
+    },
+    {
+        "text": "3.2.3 commercial and strategic information, including business plans, market-entry strategies, pricing matrices, customer proposals, procurement plans, partnership strategies, and sales forecasts;",
+        "source": "nda.txt",
+        "chunk_id": 30
+    },
+    {
+        "text": "3.2.4 financial information, including revenue models, audited and unaudited statements, budgets, valuation assumptions, unit economics, and investor presentations;",
+        "source": "nda.txt",
+        "chunk_id": 31
+    },
+    {
+        "text": "3.2.5 legal and compliance information, including contract templates, negotiation notes, due-diligence reports, compliance audits, litigation strategy, and legal opinions;",
+        "source": "nda.txt",
+        "chunk_id": 32
+    },
+    {
+        "text": "3.2.6 customer, vendor, and partner information, including identities, contacts, purchasing patterns, renewal dates, and service-level records;\n\n  3.2.7 personally identifiable data and regulated data, where disclosed, subject to Clause 7 and Data Protection Laws;",
+        "source": "nda.txt",
+        "chunk_id": 33
+    },
+    {
+        "text": "3.2.8 the existence, terms, and status of discussions between the Parties concerning the Purpose, including drafts, term sheets, memoranda, and correspondence.",
+        "source": "nda.txt",
+        "chunk_id": 34
+    },
+    {
+        "text": "3.3 Confidential Information may be disclosed in writing, orally, by demonstration, via remote access, by electronic transmission, in machine-generated logs, in visual presentations, or by any other medium; and such Confidential Information shall remain protected regardless of whether it is marked",
+        "source": "nda.txt",
+        "chunk_id": 35
+    },
+    {
+        "text": "protected regardless of whether it is marked \u201cconfidential,\u201d \u201cproprietary,\u201d \u201crestricted,\u201d or by equivalent legend.",
+        "source": "nda.txt",
+        "chunk_id": 36
+    },
+    {
+        "text": "3.4 Information derived from Confidential Information, including notes, summaries, extracts, analyses, benchmark results, derivative datasets, and internal memoranda prepared by the Receiving Party or its Representatives, shall be treated as Confidential Information.",
+        "source": "nda.txt",
+        "chunk_id": 37
+    },
+    {
+        "text": "3.5 Any ambiguity as to whether information is confidential shall be resolved in favor of treating such information as Confidential Information, pending written clarification by the Disclosing Party.\n\n---\n\n## 4. EXCLUSIONS FROM CONFIDENTIAL INFORMATION",
+        "source": "nda.txt",
+        "chunk_id": 38
+    },
+    {
+        "text": "## 4. EXCLUSIONS FROM CONFIDENTIAL INFORMATION\n\n4.1 Notwithstanding Clause 3, Confidential Information shall not include information that the Receiving Party can demonstrate through contemporaneous written records:",
+        "source": "nda.txt",
+        "chunk_id": 39
+    },
+    {
+        "text": "4.1.1 was lawfully known to the Receiving Party without restriction prior to disclosure by the Disclosing Party;\n\n  4.1.2 is or becomes publicly available through no breach of this Agreement by the Receiving Party or its Representatives;",
+        "source": "nda.txt",
+        "chunk_id": 40
+    },
+    {
+        "text": "4.1.3 is lawfully received from an independent third party who is not under a duty of confidentiality to the Disclosing Party;\n\n  4.1.4 is independently developed by the Receiving Party without use of or reference to the Disclosing Party\u2019s Confidential Information.",
+        "source": "nda.txt",
+        "chunk_id": 41
+    },
+    {
+        "text": "4.2 The burden of proving applicability of any exclusion under Clause 4.1 shall lie solely on the Receiving Party.",
+        "source": "nda.txt",
+        "chunk_id": 42
+    },
+    {
+        "text": "4.3 Combination information shall not be deemed non-confidential merely because individual elements are public, unless the combination itself, and its architecture or arrangement, is publicly known.",
+        "source": "nda.txt",
+        "chunk_id": 43
+    },
+    {
+        "text": "4.4 Information shall not lose confidentiality status solely because it is retained in unaided memory of individuals, where such retention results from exposure to Confidential Information in relation to the Purpose.\n\n---\n\n## 5. OBLIGATIONS OF RECEIVING PARTY\n\n5.1 The Receiving Party shall:",
+        "source": "nda.txt",
+        "chunk_id": 44
+    },
+    {
+        "text": "5.1 The Receiving Party shall:\n\n  5.1.1 use Confidential Information exclusively for the Purpose and for no other objective, commercial exploitation, or competitive activity;",
+        "source": "nda.txt",
+        "chunk_id": 45
+    },
+    {
+        "text": "5.1.2 hold and maintain Confidential Information in strict confidence, exercising at least the same degree of care it uses for its own confidential information of similar nature, and in no event less than reasonable care;",
+        "source": "nda.txt",
+        "chunk_id": 46
+    },
+    {
+        "text": "5.1.3 restrict access to Confidential Information strictly to Representatives on a need-to-know basis, consistent with Clause 2.6;",
+        "source": "nda.txt",
+        "chunk_id": 47
+    },
+    {
+        "text": "5.1.4 ensure its Representatives are informed of the confidential nature of such information and are bound by enforceable obligations of confidentiality and restricted use;",
+        "source": "nda.txt",
+        "chunk_id": 48
+    },
+    {
+        "text": "5.1.5 not copy, reverse engineer, disassemble, decompile, decrypt, or attempt to derive underlying structure, process flow, source logic, or trade-secret content from Confidential Information, except to the extent expressly permitted in writing by the Disclosing Party;",
+        "source": "nda.txt",
+        "chunk_id": 49
+    },
+    {
+        "text": "5.1.6 not remove, alter, suppress, or obscure proprietary notices, legends, metadata markers, copyright statements, or confidentiality labels embedded in Confidential Information;",
+        "source": "nda.txt",
+        "chunk_id": 50
+    },
+    {
+        "text": "5.1.7 promptly notify the Disclosing Party in writing upon becoming aware of any unauthorized use or disclosure, including in circumstances contemplated under Clause 7.6.",
+        "source": "nda.txt",
+        "chunk_id": 51
+    },
+    {
+        "text": "5.2 The Receiving Party shall be liable for any breach of this Agreement by its Representatives as if such breach were committed by the Receiving Party itself.",
+        "source": "nda.txt",
+        "chunk_id": 52
+    },
+    {
+        "text": "5.3 No license, assignment, transfer, or grant of rights (whether express, implied, by estoppel, or otherwise) is made under this Agreement except the limited right to use Confidential Information solely for the Purpose, as stated in Clause 5.1.1 and subject to Clause 8.",
+        "source": "nda.txt",
+        "chunk_id": 53
+    },
+    {
+        "text": "5.4 The Receiving Party shall not use Confidential Information to circumvent the Disclosing Party, interfere with the Disclosing Party\u2019s customer or vendor relationships, or develop substantially similar products or services by misappropriating the Disclosing Party\u2019s proprietary know-how.",
+        "source": "nda.txt",
+        "chunk_id": 54
+    },
+    {
+        "text": "5.5 Without prejudice to Clauses 10 and 18, the obligations under this Clause 5 shall commence upon first disclosure and continue for the period prescribed under Clause 10.\n\n---\n\n## 6. PERMITTED DISCLOSURES\n\n6.1 The Receiving Party may disclose Confidential Information only:",
+        "source": "nda.txt",
+        "chunk_id": 55
+    },
+    {
+        "text": "6.1.1 to its Representatives strictly in accordance with Clause 5.1.3 and Clause 5.1.4;",
+        "source": "nda.txt",
+        "chunk_id": 56
+    },
+    {
+        "text": "6.1.2 to its Affiliates solely for the Purpose, provided such Affiliates are bound by written obligations at least as protective as those in this Agreement, and the Receiving Party remains responsible for compliance;",
+        "source": "nda.txt",
+        "chunk_id": 57
+    },
+    {
+        "text": "6.1.3 where required as a Compelled Disclosure, subject to Clauses 6.2 to 6.5.\n\n6.2 In the event of a Compelled Disclosure, the Receiving Party shall, to the extent legally permissible:",
+        "source": "nda.txt",
+        "chunk_id": 58
+    },
+    {
+        "text": "6.2.1 promptly notify the Disclosing Party in writing, preferably no later than three (3) Business Days after receiving the relevant legal process;",
+        "source": "nda.txt",
+        "chunk_id": 59
+    },
+    {
+        "text": "6.2.2 provide reasonable cooperation to enable the Disclosing Party to seek a protective order, confidential treatment, or other appropriate remedy;\n\n  6.2.3 disclose only that portion of Confidential Information that is legally required to be disclosed.",
+        "source": "nda.txt",
+        "chunk_id": 60
+    },
+    {
+        "text": "6.3 Where prior notice is prohibited by law, the Receiving Party shall provide notice immediately when such prohibition ceases.",
+        "source": "nda.txt",
+        "chunk_id": 61
+    },
+    {
+        "text": "6.4 The Receiving Party shall use commercially reasonable efforts to ensure that any authority receiving Confidential Information pursuant to Compelled Disclosure treats such information in confidence.",
+        "source": "nda.txt",
+        "chunk_id": 62
+    },
+    {
+        "text": "6.5 Disclosures under this Clause 6 do not dilute or waive confidentiality protections otherwise applicable under this Agreement.\n\n---\n\n## 7. DATA SECURITY REQUIREMENTS",
+        "source": "nda.txt",
+        "chunk_id": 63
+    },
+    {
+        "text": "## 7. DATA SECURITY REQUIREMENTS\n\n7.1 The Receiving Party shall implement and maintain a comprehensive written information security program with administrative, technical, and physical safeguards designed to preserve the confidentiality, integrity, and availability of Confidential Information.",
+        "source": "nda.txt",
+        "chunk_id": 64
+    },
+    {
+        "text": "7.2 Such safeguards shall include, at a minimum:\n\n  7.2.1 role-based access controls, multi-factor authentication, and periodic review of access entitlements;\n\n  7.2.2 encryption of Confidential Information in transit (using current industry-accepted protocols) and at rest;",
+        "source": "nda.txt",
+        "chunk_id": 65
+    },
+    {
+        "text": "7.2.3 endpoint protection, anti-malware controls, patch management, and vulnerability remediation aligned with recognized standards;\n\n  7.2.4 secure backup, disaster recovery, and business continuity controls proportionate to risk;",
+        "source": "nda.txt",
+        "chunk_id": 66
+    },
+    {
+        "text": "7.2.5 logging, monitoring, and alerting mechanisms sufficient to detect anomalous access or exfiltration attempts;\n\n  7.2.6 confidentiality training for personnel handling Confidential Information at least annually.",
+        "source": "nda.txt",
+        "chunk_id": 67
+    },
+    {
+        "text": "7.3 The Receiving Party shall process personal data, if any, in accordance with Data Protection Laws, solely for the Purpose, and shall not transfer such data across borders except where legally permitted and subject to adequate safeguards.",
+        "source": "nda.txt",
+        "chunk_id": 68
+    },
+    {
+        "text": "7.4 Where the Disclosing Party reasonably requests evidence of controls, the Receiving Party shall provide high-level compliance attestations, certifications, or summaries, provided no additional confidential or security-sensitive exposure is created.",
+        "source": "nda.txt",
+        "chunk_id": 69
+    },
+    {
+        "text": "7.5 The Receiving Party shall not knowingly introduce malware, ransomware, spyware, trojans, time bombs, or malicious code into systems containing the Disclosing Party\u2019s Confidential Information.",
+        "source": "nda.txt",
+        "chunk_id": 70
+    },
+    {
+        "text": "7.6 In the event of a Security Incident affecting Confidential Information, the Receiving Party shall:\n\n  7.6.1 notify the Disclosing Party without undue delay, and in any event within forty-eight (48) hours of confirmation;",
+        "source": "nda.txt",
+        "chunk_id": 71
+    },
+    {
+        "text": "7.6.2 provide available details regarding nature, scope, categories of data impacted, and mitigation measures undertaken;\n\n  7.6.3 promptly investigate, contain, and remediate the Security Incident;",
+        "source": "nda.txt",
+        "chunk_id": 72
+    },
+    {
+        "text": "7.6.4 cooperate reasonably with the Disclosing Party in legal, regulatory, forensic, and customer communications, where required.\n\n7.7 Compliance with this Clause 7 shall not relieve the Receiving Party of liability for breach of confidentiality obligations under this Agreement.\n\n---",
+        "source": "nda.txt",
+        "chunk_id": 73
+    },
+    {
+        "text": "---\n\n## 8. INTELLECTUAL PROPERTY OWNERSHIP\n\n8.1 All Confidential Information remains the sole and exclusive property of the Disclosing Party (or its licensors, as applicable).",
+        "source": "nda.txt",
+        "chunk_id": 74
+    },
+    {
+        "text": "8.2 Nothing in this Agreement transfers, assigns, licenses, or otherwise conveys any intellectual property rights, title, or interest, save for the limited right to evaluate Confidential Information for the Purpose under Clause 5.1.1.",
+        "source": "nda.txt",
+        "chunk_id": 75
+    },
+    {
+        "text": "8.3 Any inventions, improvements, derivative works, models, data schemas, or know-how created by the Receiving Party that are based on, derived from, or substantially informed by the Disclosing Party\u2019s Confidential Information shall not be used, commercialized, or disclosed in a manner inconsistent",
+        "source": "nda.txt",
+        "chunk_id": 76
+    },
+    {
+        "text": "or disclosed in a manner inconsistent with this Agreement.",
+        "source": "nda.txt",
+        "chunk_id": 77
+    },
+    {
+        "text": "8.4 No implied license arises under patents, copyrights, trademarks, trade secrets, mask-work rights, moral rights, database rights, or other proprietary rights of either Party.\n\n8.5 Each Party reserves all rights not expressly granted under this Agreement.\n\n---",
+        "source": "nda.txt",
+        "chunk_id": 78
+    },
+    {
+        "text": "---\n\n## 9. RETURN OR DESTRUCTION OF INFORMATION",
+        "source": "nda.txt",
+        "chunk_id": 79
+    },
+    {
+        "text": "9.1 Upon the earlier of: (a) completion or abandonment of discussions relating to the Purpose, (b) written request by the Disclosing Party, or (c) termination under Clause 17, the Receiving Party shall promptly, and in any event within fifteen (15) Business Days:",
+        "source": "nda.txt",
+        "chunk_id": 80
+    },
+    {
+        "text": "9.1.1 return to the Disclosing Party all tangible embodiments of Confidential Information; or\n\n  9.1.2 destroy Confidential Information in its possession or control, including copies, extracts, summaries, and derivative records, except as permitted under Clause 9.3.",
+        "source": "nda.txt",
+        "chunk_id": 81
+    },
+    {
+        "text": "9.2 Upon request, an authorized signatory of the Receiving Party shall certify in writing, within five (5) Business Days after completion of return/destruction activities, that it has complied with Clause 9.1.\n\n9.3 Notwithstanding Clause 9.1, the Receiving Party may retain:",
+        "source": "nda.txt",
+        "chunk_id": 82
+    },
+    {
+        "text": "9.3.1 one archival copy solely for legal compliance, dispute resolution, or internal audit purposes; and/or\n\n  9.3.2 automatically generated backup copies that are not reasonably accessible in the ordinary course,",
+        "source": "nda.txt",
+        "chunk_id": 83
+    },
+    {
+        "text": "provided that all retained copies remain subject to confidentiality obligations under this Agreement for the duration stated in Clause 10, and are not used for any operational, commercial, or analytical purpose beyond compliance.",
+        "source": "nda.txt",
+        "chunk_id": 84
+    },
+    {
+        "text": "9.4 Where destruction is not technically feasible for specific systems, the Receiving Party shall isolate and protect such Confidential Information from further use, with equivalent safeguards under Clause 7.\n\n---\n\n## 10. CONFIDENTIALITY PERIOD",
+        "source": "nda.txt",
+        "chunk_id": 85
+    },
+    {
+        "text": "---\n\n## 10. CONFIDENTIALITY PERIOD\n\n10.1 This Agreement shall commence on the Effective Date and continue in force for a period of three (3) years unless terminated earlier in accordance with Clause 17 (the **\u201cTerm\u201d**).",
+        "source": "nda.txt",
+        "chunk_id": 86
+    },
+    {
+        "text": "10.2 Notwithstanding expiry or termination of the Term, the obligations of confidentiality, non-use, restricted disclosure, and data protection under Clauses 3, 5, 6, 7, 8, and 9 shall survive for a period of **five (5) years** from the date of each disclosure of Confidential Information.",
+        "source": "nda.txt",
+        "chunk_id": 87
+    },
+    {
+        "text": "10.3 For illustration, where Confidential Information is disclosed on **01 September 2026**, confidentiality obligations in respect thereof shall continue until **31 August 2031**, subject to Clause 18.",
+        "source": "nda.txt",
+        "chunk_id": 88
+    },
+    {
+        "text": "10.4 The Parties acknowledge that trade secret protections under Applicable Law may subsist independently, and nothing in this Clause 10 shall be construed to abridge rights available under law.\n\n---\n\n## 11. NON-SOLICITATION",
+        "source": "nda.txt",
+        "chunk_id": 89
+    },
+    {
+        "text": "11.1 During the Term and for twelve (12) months thereafter, neither Party shall, without prior written consent of the other Party, Solicit for employment or engagement any key managerial personnel, senior engineering employee, or designated project lead of the other Party with whom it had direct",
+        "source": "nda.txt",
+        "chunk_id": 90
+    },
+    {
+        "text": "lead of the other Party with whom it had direct interaction in connection with the Purpose.",
+        "source": "nda.txt",
+        "chunk_id": 91
+    },
+    {
+        "text": "11.2 Clause 11.1 shall not apply where:\n\n  11.2.1 recruitment occurs through general public advertisements not specifically directed at personnel of the other Party;\n\n  11.2.2 the relevant person independently approaches the soliciting Party without prior targeted contact;",
+        "source": "nda.txt",
+        "chunk_id": 92
+    },
+    {
+        "text": "11.2.3 the individual\u2019s employment with the other Party ended at least six (6) months prior to engagement.\n\n11.3 The Parties agree that this Clause 11 is reasonable and necessary to protect legitimate business interests and does not amount to unlawful restraint of trade under Applicable Law.",
+        "source": "nda.txt",
+        "chunk_id": 93
+    },
+    {
+        "text": "---\n\n## 12. INJUNCTIVE RELIEF\n\n12.1 Each Party acknowledges that breach or threatened breach of this Agreement may cause irreparable harm to the Disclosing Party, for which monetary damages alone may be an inadequate remedy.",
+        "source": "nda.txt",
+        "chunk_id": 94
+    },
+    {
+        "text": "12.2 Accordingly, in addition to any other rights and remedies available at law, in equity, or under this Agreement, the Disclosing Party shall be entitled to seek immediate injunctive, interlocutory, interim, ad-interim, or equitable relief, including specific performance, without requirement to",
+        "source": "nda.txt",
+        "chunk_id": 95
+    },
+    {
+        "text": "specific performance, without requirement to prove actual damages or furnish security, to the extent permissible under Applicable Law.",
+        "source": "nda.txt",
+        "chunk_id": 96
+    },
+    {
+        "text": "12.3 Exercise of rights under this Clause 12 shall not prejudice any claim for damages, indemnity, restitution, account of profits, or other relief.\n\n---\n\n## 13. LIMITATION OF LIABILITY",
+        "source": "nda.txt",
+        "chunk_id": 97
+    },
+    {
+        "text": "13.1 Subject to Clauses 13.2 and 13.3, neither Party shall be liable to the other for indirect, incidental, special, consequential, exemplary, or punitive damages, including loss of profits, loss of business opportunity, or loss of goodwill, arising out of or in connection with this Agreement,",
+        "source": "nda.txt",
+        "chunk_id": 98
+    },
+    {
+        "text": "out of or in connection with this Agreement, whether in contract, tort, strict liability, or otherwise.",
+        "source": "nda.txt",
+        "chunk_id": 99
+    },
+    {
+        "text": "13.2 The exclusions in Clause 13.1 shall not apply to:\n\n  13.2.1 willful misconduct, fraud, or gross negligence;\n\n  13.2.2 breach of confidentiality obligations under Clauses 3, 5, 6, 7, or 9;\n\n  13.2.3 infringement or misappropriation of intellectual property rights under Clause 8;",
+        "source": "nda.txt",
+        "chunk_id": 100
+    },
+    {
+        "text": "13.2.4 obligations arising from Compelled Disclosure non-compliance under Clause 6.\n\n13.3 Except for liabilities excluded from limitation under Clause 13.2, each Party\u2019s aggregate liability arising out of this Agreement shall not exceed INR 5,00,00,000 (Indian Rupees Five Crore only).",
+        "source": "nda.txt",
+        "chunk_id": 101
+    },
+    {
+        "text": "13.4 Nothing in this Agreement excludes or limits liability to the extent such exclusion or limitation is prohibited by Applicable Law.\n\n---\n\n## 14. GOVERNING LAW (INDIA)",
+        "source": "nda.txt",
+        "chunk_id": 102
+    },
+    {
+        "text": "---\n\n## 14. GOVERNING LAW (INDIA)\n\n14.1 This Agreement, including its interpretation, validity, enforceability, performance, breach, and termination, shall be governed by and construed in accordance with the laws of India, without regard to principles of conflict of laws.",
+        "source": "nda.txt",
+        "chunk_id": 103
+    },
+    {
+        "text": "14.2 Subject to Clause 15 and Clause 12, courts at Mumbai, Maharashtra, India shall have exclusive supervisory jurisdiction in relation to arbitration proceedings and interim measures.\n\n---\n\n## 15. DISPUTE RESOLUTION (ARBITRATION IN MUMBAI)",
+        "source": "nda.txt",
+        "chunk_id": 104
+    },
+    {
+        "text": "15.1 Any dispute, controversy, claim, or disagreement arising out of or relating to this Agreement, including any question concerning existence, validity, interpretation, performance, breach, or termination (a **\u201cDispute\u201d**), shall first be attempted to be resolved amicably through good-faith",
+        "source": "nda.txt",
+        "chunk_id": 105
+    },
+    {
+        "text": "to be resolved amicably through good-faith negotiations between senior representatives of the Parties.",
+        "source": "nda.txt",
+        "chunk_id": 106
+    },
+    {
+        "text": "15.2 If a Dispute is not resolved within thirty (30) days from written notice of Dispute by one Party to the other, the Dispute shall be finally resolved by arbitration.\n\n15.3 Arbitration shall be conducted in accordance with the Arbitration and Conciliation Act, 1996 (as amended).",
+        "source": "nda.txt",
+        "chunk_id": 107
+    },
+    {
+        "text": "15.4 The seat and venue of arbitration shall be **Mumbai, Maharashtra, India**.\n\n15.5 The arbitral tribunal shall consist of a sole arbitrator mutually appointed by the Parties; failing agreement within fifteen (15) days, the arbitrator shall be appointed in accordance with Applicable Law.",
+        "source": "nda.txt",
+        "chunk_id": 108
+    },
+    {
+        "text": "15.6 The language of arbitration shall be English.\n\n15.7 The arbitral award shall be final and binding on the Parties and may be enforced by any court of competent jurisdiction.",
+        "source": "nda.txt",
+        "chunk_id": 109
+    },
+    {
+        "text": "15.8 This Clause 15 does not prevent either Party from seeking urgent interim or conservatory relief under Clause 12 from courts of competent jurisdiction.\n\n---\n\n## 16. FORCE MAJEURE",
+        "source": "nda.txt",
+        "chunk_id": 110
+    },
+    {
+        "text": "16.1 Neither Party shall be liable for failure or delay in performance of obligations under this Agreement (other than payment obligations, if any) to the extent such failure or delay is caused by events beyond reasonable control, including acts of God, flood, fire, epidemic, pandemic, war, armed",
+        "source": "nda.txt",
+        "chunk_id": 111
+    },
+    {
+        "text": "God, flood, fire, epidemic, pandemic, war, armed conflict, civil unrest, terrorism, labor strikes (excluding internal strikes), governmental restrictions, or widespread telecommunications outages (each, a **\u201cForce Majeure Event\u201d**).",
+        "source": "nda.txt",
+        "chunk_id": 112
+    },
+    {
+        "text": "16.2 The affected Party shall notify the other Party in writing within five (5) Business Days of becoming aware of the Force Majeure Event, describing nature, expected duration, and mitigation steps.",
+        "source": "nda.txt",
+        "chunk_id": 113
+    },
+    {
+        "text": "16.3 The affected Party shall use commercially reasonable efforts to mitigate the effects of the Force Majeure Event and resume performance as soon as reasonably practicable.",
+        "source": "nda.txt",
+        "chunk_id": 114
+    },
+    {
+        "text": "16.4 If a Force Majeure Event continues for more than sixty (60) consecutive days and materially frustrates the Purpose, either Party may terminate this Agreement upon written notice under Clause 17, without prejudice to accrued rights and surviving obligations under Clause 18.\n\n---",
+        "source": "nda.txt",
+        "chunk_id": 115
+    },
+    {
+        "text": "---\n\n## 17. TERMINATION\n\n17.1 Either Party may terminate this Agreement for convenience by giving thirty (30) days\u2019 prior written notice to the other Party.",
+        "source": "nda.txt",
+        "chunk_id": 116
+    },
+    {
+        "text": "17.2 Either Party may terminate this Agreement with immediate effect upon written notice if the other Party materially breaches this Agreement and fails to cure such breach within fifteen (15) Business Days of receiving written notice specifying the breach in reasonable detail.",
+        "source": "nda.txt",
+        "chunk_id": 117
+    },
+    {
+        "text": "17.3 Termination or expiry of this Agreement shall not:\n\n  17.3.1 affect rights or liabilities accrued prior to the effective date of termination;",
+        "source": "nda.txt",
+        "chunk_id": 118
+    },
+    {
+        "text": "17.3.2 relieve either Party from obligations that expressly or by nature survive termination, including obligations under Clauses 5, 7, 8, 9, 10, 11 (for its stated period), 12, 13, 14, 15, 18, and 19.",
+        "source": "nda.txt",
+        "chunk_id": 119
+    },
+    {
+        "text": "17.4 Upon termination, the Receiving Party shall comply with return or destruction obligations under Clause 9.\n\n---\n\n## 18. SURVIVAL OF OBLIGATIONS",
+        "source": "nda.txt",
+        "chunk_id": 120
+    },
+    {
+        "text": "18.1 The Parties expressly agree that obligations which by their nature are intended to survive, or are necessary to give effect to this Agreement post-termination, shall survive expiration or termination, including but not limited to Clauses 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17.3,",
+        "source": "nda.txt",
+        "chunk_id": 121
+    },
+    {
+        "text": "4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17.3, 18, 19, and 20.",
+        "source": "nda.txt",
+        "chunk_id": 122
+    },
+    {
+        "text": "18.2 In case of inconsistency between Clause 10 and Clause 18.1, the provision affording higher protection to Confidential Information shall prevail to the extent permissible under Applicable Law.\n\n---\n\n## 19. NOTICES",
+        "source": "nda.txt",
+        "chunk_id": 123
+    },
+    {
+        "text": "19.1 All notices, requests, demands, consents, waivers, and other communications under this Agreement shall be in writing and shall be deemed duly given if delivered by hand, recognized courier, registered post, or email (with delivery confirmation) to the addresses set out below, or such other",
+        "source": "nda.txt",
+        "chunk_id": 124
+    },
+    {
+        "text": "to the addresses set out below, or such other address as may be notified in writing.",
+        "source": "nda.txt",
+        "chunk_id": 125
+    },
+    {
+        "text": "19.2 Notice details:\n\n**For Asterion Cloud Systems Private Limited**  \nAttn: General Counsel  \nAddress: 10th Floor, Meridian Tech Park, L.B.S. Marg, Kurla (West), Mumbai, Maharashtra 400070, India  \nEmail: legal@asterioncloud.in",
+        "source": "nda.txt",
+        "chunk_id": 126
+    },
+    {
+        "text": "**For Veridian Quantum Technologies Limited**  \nAttn: Head \u2013 Legal & Compliance  \nAddress: 7th Floor, Orion Towers, 100 Feet Road, Indiranagar, Bengaluru, Karnataka 560038, India  \nEmail: legal.notices@veridianqt.com\n\n19.3 Notices shall be deemed received:",
+        "source": "nda.txt",
+        "chunk_id": 127
+    },
+    {
+        "text": "19.3 Notices shall be deemed received:\n\n  19.3.1 if delivered by hand, on the date of delivery;\n\n  19.3.2 if sent by recognized courier or registered post, on the third (3rd) Business Day after dispatch;",
+        "source": "nda.txt",
+        "chunk_id": 128
+    },
+    {
+        "text": "19.3.3 if sent by email, at 10:00 a.m. on the next Business Day following transmission, provided no delivery failure notice is received.\n\n19.4 Service of legal process relating to arbitration or interim proceedings shall additionally comply with Clause 15 and Applicable Law.\n\n---",
+        "source": "nda.txt",
+        "chunk_id": 129
+    },
+    {
+        "text": "---\n\n## 20. ENTIRE AGREEMENT AND MISCELLANEOUS",
+        "source": "nda.txt",
+        "chunk_id": 130
+    },
+    {
+        "text": "20.1 This Agreement constitutes the entire understanding between the Parties concerning its subject matter and supersedes all prior and contemporaneous communications, representations, negotiations, term sheets, letters of intent, and understandings, whether oral or written, relating to such",
+        "source": "nda.txt",
+        "chunk_id": 131
+    },
+    {
+        "text": "whether oral or written, relating to such subject matter.",
+        "source": "nda.txt",
+        "chunk_id": 132
+    },
+    {
+        "text": "20.2 No amendment, modification, or waiver of any provision of this Agreement shall be valid unless made in writing and signed by duly authorized representatives of both Parties.",
+        "source": "nda.txt",
+        "chunk_id": 133
+    },
+    {
+        "text": "20.3 No failure or delay by either Party in exercising any right, power, or remedy shall operate as a waiver thereof, nor shall any single or partial exercise preclude further exercise of that or any other right.",
+        "source": "nda.txt",
+        "chunk_id": 134
+    },
+    {
+        "text": "20.4 If any provision of this Agreement is determined by a court or tribunal of competent jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force, and the invalid provision shall be deemed modified to the minimum extent necessary to make it",
+        "source": "nda.txt",
+        "chunk_id": 135
+    },
+    {
+        "text": "to the minimum extent necessary to make it enforceable while preserving intent.",
+        "source": "nda.txt",
+        "chunk_id": 136
+    },
+    {
+        "text": "20.5 Neither Party may assign or transfer this Agreement, in whole or in part, without prior written consent of the other Party, except to an Affiliate or in connection with merger, amalgamation, reconstruction, or sale of substantially all assets, provided the assignee assumes all obligations",
+        "source": "nda.txt",
+        "chunk_id": 137
+    },
+    {
+        "text": "provided the assignee assumes all obligations herein in writing.",
+        "source": "nda.txt",
+        "chunk_id": 138
+    },
+    {
+        "text": "20.6 This Agreement may be executed in counterparts, each of which shall be deemed an original, and all counterparts together shall constitute one instrument. Signatures exchanged by PDF or secure electronic signature platform shall be deemed valid and binding.",
+        "source": "nda.txt",
+        "chunk_id": 139
+    },
+    {
+        "text": "20.7 The relationship of the Parties is that of independent contracting parties. Nothing in this Agreement creates a partnership, agency, fiduciary relationship, joint venture, or employment relationship between the Parties.",
+        "source": "nda.txt",
+        "chunk_id": 140
+    },
+    {
+        "text": "20.8 The headings in this Agreement are for convenience only and shall not affect interpretation. References to Clauses are references to clauses of this Agreement unless expressly stated otherwise.",
+        "source": "nda.txt",
+        "chunk_id": 141
+    },
+    {
+        "text": "20.9 In the event of conflict between this Agreement and any subsequent project-specific non-disclosure addendum signed by both Parties, the addendum shall prevail only to the extent of explicit inconsistency and only for the specified project.",
+        "source": "nda.txt",
+        "chunk_id": 142
+    },
+    {
+        "text": "20.10 Each Party acknowledges that it has read and understood this Agreement, had opportunity to seek independent legal advice, and enters into this Agreement voluntarily and with full authority.\n\n---\n\n### EXECUTION",
+        "source": "nda.txt",
+        "chunk_id": 143
+    },
+    {
+        "text": "---\n\n### EXECUTION\n\nIN WITNESS WHEREOF, the Parties, acting through their duly authorized representatives, have executed this Mutual Non-Disclosure Agreement as of the Effective Date first above written.\n\nFor and on behalf of  \n**Asterion Cloud Systems Private Limited**",
+        "source": "nda.txt",
+        "chunk_id": 144
+    },
+    {
+        "text": "Name: **Rohan Mehta**  \nDesignation: **Chief Executive Officer**  \nDate of Signature: **23 June 2026**  \nPlace: **Mumbai**\n\nSignature: _________________________\n\n---\n\nFor and on behalf of  \n**Veridian Quantum Technologies Limited**",
+        "source": "nda.txt",
+        "chunk_id": 145
+    },
+    {
+        "text": "Name: **Ananya Rao**  \nDesignation: **Chief Operating Officer**  \nDate of Signature: **24 June 2026**  \nPlace: **Bengaluru**\n\nSignature: _________________________\n\n---\n\n### SCHEDULE A (Illustrative Disclosure Log Reference)",
+        "source": "nda.txt",
+        "chunk_id": 146
+    },
+    {
+        "text": "- Initial technical disclosure package exchanged on **25 June 2026** under secure virtual data room.\n- Follow-up architectural workshop held on **03 July 2026**.\n- Commercial model briefing circulated on **08 July 2026**.\n- Security due diligence packet shared on **15 July 2026**.",
+        "source": "nda.txt",
+        "chunk_id": 147
+    },
+    {
+        "text": "For avoidance of doubt, all disclosures listed above constitute Confidential Information pursuant to Clause 3 and remain subject to the confidentiality period set out in Clause 10.",
+        "source": "nda.txt",
+        "chunk_id": 148
+    }
+]
