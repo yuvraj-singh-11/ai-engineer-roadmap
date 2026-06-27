@@ -1,0 +1,34 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This NDA is entered into on 10 February 2025 between LexLegis Private Limited ("Disclosing Party") and Delta Review Associates ("Receiving Party").
+
+1. Confidential Information
+"Confidential Information" includes contracts, legal strategies, client data, pricing, internal policies, and any non-public business information disclosed in oral, written, or electronic form.
+
+2. Confidentiality Obligations
+The Receiving Party shall:
+- Keep Confidential Information strictly confidential.
+- Use Confidential Information solely for permitted business purposes.
+- Restrict access to authorized personnel on a need-to-know basis.
+- Apply reasonable security controls to prevent unauthorized disclosure.
+- Promptly notify the Disclosing Party of any suspected breach.
+
+3. Exclusions
+Confidential Information does not include information that:
+- Is publicly available without breach;
+- Was lawfully known before disclosure;
+- Is independently developed without use of Confidential Information;
+- Is disclosed under legal compulsion, with prior notice where permitted.
+
+4. Term and Survival
+This NDA remains effective for 3 years from the effective date.
+Confidentiality obligations survive termination for 5 years.
+
+5. Return/Destruction
+Upon request or termination, the Receiving Party shall return or securely destroy all Confidential Information and confirm completion in writing.
+
+6. Liability
+Unauthorized disclosure may cause irreparable harm. The Disclosing Party may seek injunctive relief and damages as available by law.
+
+7. Governing Law
+This NDA is governed by Indian law, with courts in New Delhi having jurisdiction.

@@ -1,0 +1,53 @@
+VENDOR AGREEMENT
+
+This Vendor Agreement ("Agreement") is made effective as of 15 January 2025, by and between:
+
+Client: LexLegis Private Limited, Bengaluru, India
+Vendor: Alpha Compliance Services LLP, Mumbai, India
+
+1. Scope of Services
+The Vendor shall provide contract analytics support, document digitization, and compliance reporting services for the Client’s legal operations team.
+
+2. Vendor Responsibilities
+The Vendor shall:
+- Deliver services in a professional and timely manner.
+- Comply with all applicable laws and regulations in India.
+- Maintain accurate records of all services performed.
+- Provide monthly status reports and incident summaries.
+- Notify the Client within 24 hours of any material service disruption.
+- Ensure that personnel assigned are properly trained and authorized.
+
+3. Service Levels
+- Turnaround time for standard requests: 2 business days.
+- Critical requests: 8 business hours.
+- Monthly service availability target: 99.5%.
+
+4. Confidentiality
+The Vendor shall keep all non-public information strictly confidential and shall not disclose, copy, or use such information except as necessary to perform obligations under this Agreement.
+
+5. Data Protection
+The Vendor shall implement reasonable technical and organizational safeguards to protect personal and confidential data against unauthorized access, disclosure, alteration, or destruction.
+
+6. Fees and Payment
+The Client shall pay INR 4,50,000 per quarter within 30 days of invoice receipt, subject to satisfactory performance.
+
+7. Liability and Indemnity
+The Vendor shall be liable for direct damages arising from breach of this Agreement, negligence, or willful misconduct.
+The Vendor agrees to indemnify and hold harmless the Client from third-party claims, losses, and expenses arising out of Vendor’s breach, data breach, or legal non-compliance.
+
+8. Term and Termination
+This Agreement shall remain in force for 12 months unless terminated earlier.
+Either party may terminate this Agreement:
+- For convenience, with 30 days' prior written notice.
+- For material breach, if not cured within 15 days of written notice.
+Upon termination, the Vendor shall promptly return or securely destroy Client data.
+
+9. Governing Law and Jurisdiction
+This Agreement shall be governed by the laws of India. Courts at Bengaluru shall have exclusive jurisdiction.
+
+10. Notices
+All notices under this Agreement shall be in writing and sent to the registered addresses of the parties.
+
+Signed:
+For LexLegis Private Limited
+For Alpha Compliance Services LLP
